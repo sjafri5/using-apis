@@ -10,10 +10,13 @@ layout: post
 * What is an API?
 * Read API documentations
 * Public APIs vs Private APIs
-* Make request to external APIs
+* Make request to internal & external API
 * DOM Manipulation
 
-## Resources
+
+## Deliverables
+* User should be able to view all the users in the backend along with the coins they are invested in
+* User should be able to click show data on any of the coins and view current price data in a separate div
 
 ## Outline
 ```text
