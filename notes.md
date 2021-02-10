@@ -3,7 +3,7 @@ title: using APIs
 layout: post
 ---
 
-# Event Listeners
+# Using APIs
 
 ## SWBATs
 
