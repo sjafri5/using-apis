@@ -20,7 +20,7 @@ layout: post
   10m | Introduction to API
   10m | How to read API Documentation
   20m | Capture user data from our own private API
-  20m | Capture data from (Crypto)[https://rapidapi.com/BraveNewCoin/api/bravenewcoin] api
+  20m | Capture data from [Crypto](https://rapidapi.com/BraveNewCoin/api/bravenewcoin) api
   ----|----
   60m | TOTAL
 ```
