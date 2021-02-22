@@ -8,7 +8,7 @@ function main(){
 }
 
 function fetchUsers(){
-  fetch('http://localhost:3000/users')
+  fetch('http://localhost:3000/users?_embed=cryptos')
   .then(resp => resp.json())
   .then(users => {
     users.forEach(function(user){
