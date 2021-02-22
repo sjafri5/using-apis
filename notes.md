@@ -16,6 +16,7 @@ layout: post
 
 ## Deliverables
 * User should be able to view all the users in the backend along with the coins they are invested in
+  * In order to hit the endpoint and receive both the users and associated cryptos, hit `http://localhost:3000/users?_embed=cryptos`
 * User should be able to click show data on any of the coins and view current price data in a separate div
 
 ## Outline
